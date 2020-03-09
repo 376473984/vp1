@@ -1,7 +1,8 @@
 <template>
   <div id="app">
+    WSL ubuntu18.04 安装NPM、Node、Yarn、-g @Vue/cli等，用vue create vp1创建<br> 
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="欢迎使用Welcome to Your Vue.js App"/>
   </div>
 </template>
 
